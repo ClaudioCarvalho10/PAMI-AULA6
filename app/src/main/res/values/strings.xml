@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">aula6</string>
+    <string name="Activity">Esta é a primeira Activity</string>
+    <string name="proximaAct">Proxima Activity </string>
+    <string name="segundaAct">Esta é a Segunda Activity </string>
+</resources>
+
